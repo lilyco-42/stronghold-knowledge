@@ -8,6 +8,7 @@
 3. 社群用语、经验与经验证的问题：本仓库。必须标明出处、适用范围和置信度。
 
 ## 内容
+- [客户端最新下载入口：GitHub / 夸克网盘](downloads/client.md)
 - [区：群聊术语](terms/区.md)
 - [不屈盟约：PRTS 索引](gameplay/不屈.md)
 - [条目模板](TEMPLATE.md)
